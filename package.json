@@ -10,6 +10,7 @@
   "directories": {
     "lib": "./lib"
   },
+   "main": "./lib/citeprocnode.js",
   "engines": {
     "node": ">=0.10.25"
   },
